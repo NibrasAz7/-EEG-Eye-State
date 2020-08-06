@@ -4,7 +4,7 @@
 Determain the eye state (Open/Close) based on EEG signal.
 
 ## Dataset
-### DatasetSource:
+### Dataset Source:
 Oliver Roesler, it12148 '@' lehre.dhbw-stuttgart.de , Baden-Wuerttemberg Cooperative State University (DHBW), Stuttgart, Germany
 https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
