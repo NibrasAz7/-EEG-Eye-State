@@ -1,9 +1,9 @@
-# -EEG-Eye-State
+# EEG-Eye-State
 
 ## Goal: 
 Determain the eye state (Open/Close) based on EEG signal.
 
-##DatasetSource:
+## DatasetSource:
 Oliver Roesler, it12148 '@' lehre.dhbw-stuttgart.de , Baden-Wuerttemberg Cooperative State University (DHBW), Stuttgart, Germany
 https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State
 
@@ -20,5 +20,6 @@ All data is from one continuous EEG measurement with the Emotiv EEG Neuroheadset
 Note: Measurment duration is 117 seconds with 14980 sample point. Therfore, Sampling Frequency equels to: 14980/117 = 128 Hz.
 The data was downsampled from 2048 Hz to 128
 
-
-
+### Resources:
+Roesler, O. (2013). EEG Eye State Data Set. UCI Machine Learning Repositorty. Avilable on: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State. Last Accesss [06 Aug 2020].
+Consumer EEG Headsets. (N.A.). Avilable on: http://learn.neurotechedu.com/headsets/. Last Accesss [06 Aug 2020].
