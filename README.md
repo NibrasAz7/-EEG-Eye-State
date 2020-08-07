@@ -1,5 +1,6 @@
 # EEG-Eye-State
 
+# Introduction
 ## Goal: 
 Determain the eye state (Open/Close) based on EEG signal.
 
@@ -20,6 +21,8 @@ Wet Electrodes (require saline water)
 
 Note: Measurment duration is 117 seconds with 14980 sample point. Therfore, Sampling Frequency equels to: 14980/117 = 128 Hz.
 The data was downsampled from 2048 Hz to 128
+
+
 
 ## Resources:
 Roesler, O. (2013). EEG Eye State Data Set. UCI Machine Learning Repositorty. Avilable on: https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State. Last Accesss [06 Aug 2020].
