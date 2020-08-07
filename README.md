@@ -22,6 +22,9 @@ Wet Electrodes (require saline water)
 Note: Measurment duration is 117 seconds with 14980 sample point. Therfore, Sampling Frequency equels to: 14980/117 = 128 Hz.
 The data was downsampled from 2048 Hz to 128
 
+# Methodology
+
+## Exploring Data
 
 
 ## Resources:
