@@ -30,10 +30,9 @@ We can notice that the data contains 45% of samples while eyes are closed while 
 By plotting the EEG signales, we can notice number of spikes (outliers) in the data.
 
 ## PreProcessing
-1- Remove Spikes: Remove all the random numbers that lie in the lowest quantile (05%) and the highest quantile (95%).
-2- Replace Nan values with mean. The Nan values were produced while removing spikes.
-3- We can notice that AF3 signale contains a spike that needs to be replaced with mean manually.
-4- Normalization using Min-Max Scaling
+1- Remove Spikes: Remove all the random numbers that lie in the lowest quantile (0.1%) and the highest quantile (99.9%).
+2- Remove Trend (DC current shifting).
+3- Normalization using Min-Max Scaling.
 
 ## Prepearing data
 Spliting the data into training data and testing data, each data contains Featuers and Labels
