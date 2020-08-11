@@ -65,26 +65,26 @@ classification report:               precision    recall  f1-score   support
 weighted avg                            0.79      0.79      0.79      2996
 
 ## 2- K-Nearest Neighbours (KNN)
-Accuracy:         0.8614819759679573
-f1        score:  0.8779770655689503
+Accuracy:         0.9395861148197597
+f1        score:  0.9462429462429462
 
-precision score:  0.8600230414746544
-recall    score:  0.8966966966966967
+precision score:  0.935957696827262
+recall    score:  0.9567567567567568
 
-confusion matrix: [[1088  243]
-                   [ 172 1493]]
+confusion matrix: [[1222  109]
+                   [ 72 1593]]
 
 classification report:               precision    recall  f1-score   support
 
-         0.0                            0.86      0.82      0.84      1331
-         1.0                            0.86      0.90      0.88      1665
+         0.0                            0.94      0.92      0.93      1331
+         1.0                            0.94      0.96      0.95      1665
 
-    accuracy                                                0.86      2996
-   macro avg                            0.86      0.86      0.86      2996
-weighted avg                            0.86      0.86      0.86      2996
+    accuracy                                                0.94      2996
+   macro avg                            0.94      0.94      0.94      2996
+weighted avg                            0.86      0.94      0.94      2996
 
 # Descussion
-We can notice that KNN performe slightly better than DT.
+We can notice that KNN performe better than DT.
 Classification Performance is good in general.
 
 # Futuer Work Suggestion
