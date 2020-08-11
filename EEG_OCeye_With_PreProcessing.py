@@ -48,7 +48,7 @@ for i in ch_names[0:14]:
     plt.plot(Data[i])
     
 
-signal.detrend(Data[1:14], axis=- 1, type='linear', bp=0, overwrite_data=False)
+signal.detrend(Data[0:14], axis=- 1, type='linear', bp=0, overwrite_data=False)
 
 for i in ch_names[0:14]:
     plt.plot(Data[i])
