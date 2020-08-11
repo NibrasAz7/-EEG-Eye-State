@@ -55,7 +55,6 @@ precision score:  0.8177966101694916
 recall    score:  0.8114114114114114
 
 confusion matrix: [[1030  301]
-
                    [ 314 1351]]
 
 ## 2- K-Nearest Neighbours (KNN)
@@ -64,11 +63,11 @@ Accuracy:         0.9395861148197597
 f1        score:  0.9462429462429462
 
 precision score:  0.935957696827262
+
 recall    score:  0.9567567567567568
 
 
 confusion matrix: [[1222  109]
-
                    [ 72 1593]]
 
 # Descussion
