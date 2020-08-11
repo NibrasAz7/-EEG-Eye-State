@@ -58,10 +58,15 @@ confusion matrix: [[1030  301]
                    [ 314 1351]]
 
 classification report:               precision    recall  f1-score   support
+
          0.0                            0.77      0.77      0.77      1331
+         
          1.0                            0.82      0.81      0.81      1665
+         
     accuracy                                                0.79      2996
+    
    macro avg                            0.79      0.79      0.79      2996
+   
 weighted avg                            0.79      0.79      0.79      2996
 
 ## 2- K-Nearest Neighbours (KNN)
@@ -77,10 +82,15 @@ confusion matrix: [[1222  109]
                    [ 72 1593]]
 
 classification report:               precision    recall  f1-score   support
+
          0.0                            0.94      0.92      0.93      1331
+         
          1.0                            0.94      0.96      0.95      1665
+         
     accuracy                                                0.94      2996
+    
    macro avg                            0.94      0.94      0.94      2996
+   
 weighted avg                            0.86      0.94      0.94      2996
 
 # Descussion
