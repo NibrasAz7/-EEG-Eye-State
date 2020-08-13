@@ -39,7 +39,7 @@ Spliting the data into training data and testing data, each data contains Featue
 The featers where considered as the amplitude of the signales at each sample.
 Spit ratio were choosen to be 20%.
 
-## Traiing Models
+## Training Models
 Two models were trained:
 1- Decision Tree (DT)
 2- K-Nearest Neighbours (KNN)
@@ -70,7 +70,7 @@ recall    score:  0.9567567567567568
 confusion matrix: [[1222  109]
                    [ 72 1593]]
 
-# Descussion
+# Discussion
 We can notice that KNN performe better than DT.
 Classification Performance is good in general.
 
